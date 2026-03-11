@@ -1,1 +1,4 @@
-Hello! I am Anshumita, Freshman at Rutgers. I think cybersecurity is really cool.
+Hello! 
+name: Anshumita
+Interests: CS, Red Team 
+
